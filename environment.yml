@@ -1,12 +1,12 @@
 name: demo-efield
 channels:
- - conda-forge
- - default
+  - conda-forge
+  - default
 dependencies:
- - numpy
- - matplotlib
- - numba
- - jupyterlab
- - pip
- - pip:
-  - geoana
+  - numpy
+  - matplotlib
+  - numba
+  - jupyterlab
+  - pip
+  - pip:
+      - geoana
