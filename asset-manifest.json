@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/demo-geosci-efield/static/css/main.5a3a092e.css",
-    "main.js": "/demo-geosci-efield/static/js/main.2078eb49.js",
+    "main.js": "/demo-geosci-efield/static/js/main.fd2003aa.js",
     "static/js/209.4b48030c.chunk.js": "/demo-geosci-efield/static/js/209.4b48030c.chunk.js",
     "static/js/68.70565d37.chunk.js": "/demo-geosci-efield/static/js/68.70565d37.chunk.js",
     "static/media/jupyterlab-wordmark.svg": "/demo-geosci-efield/static/media/jupyterlab-wordmark.06de3f6f47040a96e1b75f57ff2be41f.svg",
@@ -90,6 +90,6 @@
   },
   "entrypoints": [
     "static/css/main.5a3a092e.css",
-    "static/js/main.2078eb49.js"
+    "static/js/main.fd2003aa.js"
   ]
 }
